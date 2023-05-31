@@ -30,4 +30,4 @@ rewuijks
     </header>
 
 </body>
-</html> <!DOCTYPE html>
+</html> <!DOCTYPE html> 
